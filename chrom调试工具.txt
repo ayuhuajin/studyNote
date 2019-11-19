@@ -1,0 +1,6 @@
+1.H  可快速显示隐藏  页面元素     也可上下排序 移动
+2.style 面板中可快速 添加颜色 背景，阴影
+3.可在editpoint  添加 判断条件 ，也可以添加console.log()
+4.ajax请求面板 可 replay XHR request
+5.DOM 和 Ajax 断点
+6.esc  调出 console面板（有许多其他的面板）
